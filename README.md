@@ -28,9 +28,9 @@
 
 --- 
 
-<h1>
+<div align="center">
   <img src="https://media.giphy.com/media/xTrL2z0L8j4KeldZ2S/giphy.gif"/>
-</h1>
+</div>
 
 ---
 
@@ -121,9 +121,5 @@ I am a Full Stack Developer :computer::bulb: from Karachi, Pakistan :pakistan:.
 
 ### :fire: My Stats :
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AkeedAFarees&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkeedAFarees&layout=compact&langs_count=10&hide=php" />
-</a>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AkeedAFarees&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" width="500" height="200"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkeedAFarees&layout=compact&langs_count=10&hide=php" width="500" height="200"/>
