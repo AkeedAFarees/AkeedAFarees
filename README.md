@@ -121,5 +121,13 @@ I am a Full Stack Developer :computer::bulb: from Karachi, Pakistan :pakistan:.
 
 ### :fire: My Stats :
 
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AkeedAFarees&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" width="500" height="200"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkeedAFarees&layout=compact&langs_count=10&hide=php" width="500" height="200"/>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AkeedAFarees&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkeedAFarees&layout=compact&langs_count=10&hide=php"/>
+
+---
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=akeedafarees&cover_image=true&theme=default&bar_color=e58334&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
