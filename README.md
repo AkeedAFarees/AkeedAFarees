@@ -116,3 +116,10 @@ I am a Full Stack Developer :computer::bulb: from Karachi, Pakistan :pakistan:.
 <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg' title="Docker" alt="Docker" width='40' height='40'/>&nbsp;
 <img src='https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg' title="Redis" alt="Redis" width='40' height='40'/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AkeedAFarees&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akeedahmed-CC&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
