@@ -121,5 +121,9 @@ I am a Full Stack Developer :computer::bulb: from Karachi, Pakistan :pakistan:.
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AkeedAFarees&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akeedahmed-CC&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AkeedAFarees&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkeedAFarees&layout=compact&langs_count=10&hide=php" />
+</a>
