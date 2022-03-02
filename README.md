@@ -130,8 +130,9 @@ I am a Full Stack Developer :computer::bulb: from Karachi, Pakistan :pakistan:.
 </details>
 
 ### :headphones: What I'm listening to :
-
+<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=akeedafarees&cover_image=true&theme=default&bar_color=e58334&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
 
 ### :laughing::sweat_smile: LOL :
 
