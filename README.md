@@ -63,10 +63,9 @@ I am a Full Stack Developer :computer::bulb: from Karachi, Pakistan :pakistan:.
 <img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg' title="Bootstrap" alt="Bootstrap" width='40' height='40'/>&nbsp;  
 <img src='https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg' title="MaterialUI" alt="MaterialUI" width='40' height='40'/>&nbsp;  
 <img src='https://github.com/devicons/devicon/blob/master/icons/coffeescript/coffeescript-original-wordmark.svg' title="Coffeescript" alt="Coffeescript" width='40' height='40'/>&nbsp;
-<img src='https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg' title="Less" alt="Less" width='40' height='40'/>&nbsp;  
 <img src='https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg' title="Sass" alt="Sass" width='40' height='40'/>&nbsp;  
+<img src='https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg' title="Less" alt="Less" width='40' height='40'/>&nbsp;  
 </div>
-
 
 - Databases
 <div>
@@ -75,14 +74,12 @@ I am a Full Stack Developer :computer::bulb: from Karachi, Pakistan :pakistan:.
 <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' title="MongoDB" alt="MongoDB" width='40' height='40'/>&nbsp;
 </div>
 
-
 - Git
 <div>
 <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg' title="Git" alt="Git" width='40' height='40'/>&nbsp;
 <img src='https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg' title="Github" alt="Github" width='40' height='40'/>&nbsp;
 <img src='https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg' title="Gitlab" alt="Gitlab" width='40' height='40'/>&nbsp;
 </div>
-
 
 - Collaboration
 <div>
@@ -91,14 +88,12 @@ I am a Full Stack Developer :computer::bulb: from Karachi, Pakistan :pakistan:.
 <img src='https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg' title="Trello" alt="Trello" width='40' height='40'/>&nbsp;
 </div>
 
-
 - IDEs
 <div>
 <img src='https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg' title="JetBrains" alt="JetBrains" width='40' height='40'/>&nbsp;  
 <img src='https://github.com/devicons/devicon/blob/master/icons/rubymine/rubymine-original-wordmark.svg' title="RubyMine" alt="RubyMine" width='40' height='40'/>&nbsp;
 <img src='https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg' title="Atom" alt="Atom" width='40' height='40'/>&nbsp;
 </div>
-
 
 - System
 <div>
@@ -107,8 +102,7 @@ I am a Full Stack Developer :computer::bulb: from Karachi, Pakistan :pakistan:.
 <img src='https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg' title="Bash" alt="Bash" width='40' height='40'/>&nbsp;  
 <img src='https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg' title="SSH" alt="SSH" width='40' height='40'/>&nbsp; 
 </div>
-
-
+\
 - Tools
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
