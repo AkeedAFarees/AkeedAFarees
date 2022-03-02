@@ -131,9 +131,13 @@ I am a Full Stack Developer :computer::bulb: from Karachi, Pakistan :pakistan:.
 
 ### :headphones: What I'm listening to :
 <div align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=akeedafarees&cover_image=true&theme=default&bar_color=e58334&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=akeedafarees&cover_image=true&theme=default&bar_color=e58334&bar_color_cover=false"/>
+  </a>
 </div>
 
 ### :laughing::sweat_smile: LOL :
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula"/>
+</div>
