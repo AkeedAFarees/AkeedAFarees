@@ -16,26 +16,26 @@ I’ve worked remotely with clients and companies across **the US, Estonia, Finl
 
 ### 💼 My Journey  
 
-**Senior Software Engineer @ [Sphir](https://sphir.com/)** (2024 – Present)  
+**Senior Software Engineer @ <a href="https://sphir.com/" target="_blank">Sphir</a>** (2024 – Present)  
   - Core contributor since MVP stage; helped shape architecture and scale to production.  
   - Built AI-powered automation for video content (Whisper + GPT) → reduced manual work by 80%.  
   - Delivered 20+ features and integrations (YouTube, Vimeo, Rumble) covering 95% of user content sources.  
 
-**Senior Software Engineer @ [Vartana](https://vartana.com/)** (2023 – 2024)  
+**Senior Software Engineer @ <a href="https://vartana.com/" target="_blank">Vartana</a>** (2023 – 2024)  
   - Shipped 6+ high-impact fintech features (custom dashboards, ledger tools, asset buyout workflows).  
   - Reduced manual reconciliation time by 40% through better internal tools.  
   - Cut CI test runtime from 60min → 15min with parallelization, boosting dev team productivity.  
 
-**Senior Software Engineer @ [Optimyse](https://optimyse.com/)** (2021 – 2023)  
+**Senior Software Engineer @ <a href="https://optimyse.com/" target="_blank">Optimyse</a>** (2021 – 2023)  
   - Built fintech payment modules (Rails + React) improving reliability and processing efficiency by 30%.  
   - Led backend for HRTech app (Python/Flask), improving scalability and performance.  
   - Mentored 5 juniors and onboarded 6 new developers, strengthening team capability.  
 
-**Software Engineer @ Cooperative Computing** (2019 – 2021)  
+**Software Engineer @ <a href="https://cooperativecomputing.com" target="_blank">Cooperative Computing</a>** (2019 – 2021)  
   - Led teams across projects in fintech, digital marketplaces, and social apps.  
   - Coordinated with offshore teams (Ukraine, Lahore) for smooth multi-module integration.  
 
-**Full Stack Developer @ Digital Tribe** (2018 – 2019)  
+**Full Stack Developer @ <a href="https://digitaltribe.co" target="_blank">Digital Tribe</a>** (2018 – 2019)  
   - End-to-end ownership of a babysitter–parent platform (12+ features, complete SDLC).  
 
 ---
@@ -113,8 +113,10 @@ I’ve worked remotely with clients and companies across **the US, Estonia, Finl
 
 ---
 
-:mailbox: How to reach me: [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" />](mailto:akeedahmedfarees@gmail.com)
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />](https://www.linkedin.com/in/akeedahmedfarees/)
+### 📬 How to reach me  
+
+- <a href="mailto:akeedahmedfarees@gmail.com" target="_blank"><img src="https://img.icons8.com/color/20/000000/gmail.png"/> Gmail</a>  
+- <a href="https://www.linkedin.com/in/akeedahmedfarees/" target="_blank"><img src="https://img.icons8.com/color/20/000000/linkedin.png"/> LinkedIn</a>  
 
 ---
 
