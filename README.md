@@ -142,13 +142,6 @@ I’ve worked remotely with clients and companies across **the US, Estonia, Finl
 
 ---
 
-### :headphones: What I'm listening to :
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=akeedafarees&cover_image=true&theme=default"/>
-  </a>
-</div>
-
 ### :laughing::sweat_smile: LOL :
 
 <div align="center">
