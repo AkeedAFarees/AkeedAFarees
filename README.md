@@ -4,31 +4,39 @@
 
 ---
 
-### :envelope_with_arrow: Who am I :
+### 👋 Hey, I’m Akeed   
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/akeedahmedfarees/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/akeed.afarees">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/AkeedAFarees">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+I’m a **Full Stack Developer** :computer: from Karachi, Pakistan 🇵🇰 with **8+ years of experience** building scalable applications across **FinTech, HRTech, and Social Platforms**.  
+
+My core stack: **Ruby on Rails, ReactJS, PostgreSQL, MongoDB, Redis, Sidekiq, and AWS** — with strong expertise in designing secure, scalable, and high-performance systems.  
+
+I’ve worked remotely with clients and companies across **the US, Estonia, Finland, Dubai, and Pakistan**, delivering products that power payments, HR platforms, and knowledge-sharing communities.
 
 ---
 
-### :man_technologist: About Me :
+### 💼 My Journey  
 
-I am a Full Stack Developer :computer::bulb: from Karachi, Pakistan :pakistan:.
+**Senior Software Engineer @ [Sphir](https://sphir.com/)** (2024 – Present)  
+  - Core contributor since MVP stage; helped shape architecture and scale to production.  
+  - Built AI-powered automation for video content (Whisper + GPT) → reduced manual work by 80%.  
+  - Delivered 20+ features and integrations (YouTube, Vimeo, Rumble) covering 95% of user content sources.  
 
-- 🔭 I’m working as a Senior Software Engineer at <a href="https://optimyse.com/">Optimyse</a>
-- :page_facing_up: I’m currently exploring technical content writing.
-- 🌱 I’m currently learning React
-- :zap: In my free time, I solve problems on LeetCode & HackerRank.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akeedahmedfarees/)
+**Senior Software Engineer @ [Vartana](https://vartana.com/)** (2023 – 2024)  
+  - Shipped 6+ high-impact fintech features (custom dashboards, ledger tools, asset buyout workflows).  
+  - Reduced manual reconciliation time by 40% through better internal tools.  
+  - Cut CI test runtime from 60min → 15min with parallelization, boosting dev team productivity.  
+
+**Senior Software Engineer @ [Optimyse](https://optimyse.com/)** (2021 – 2023)  
+  - Built fintech payment modules (Rails + React) improving reliability and processing efficiency by 30%.  
+  - Led backend for HRTech app (Python/Flask), improving scalability and performance.  
+  - Mentored 5 juniors and onboarded 6 new developers, strengthening team capability.  
+
+**Software Engineer @ Cooperative Computing** (2019 – 2021)  
+  - Led teams across projects in fintech, digital marketplaces, and social apps.  
+  - Coordinated with offshore teams (Ukraine, Lahore) for smooth multi-module integration.  
+
+**Full Stack Developer @ Digital Tribe** (2018 – 2019)  
+  - End-to-end ownership of a babysitter–parent platform (12+ features, complete SDLC).  
 
 ---
 
@@ -39,7 +47,7 @@ I am a Full Stack Developer :computer::bulb: from Karachi, Pakistan :pakistan:.
 <img src='https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg' title="Ruby" alt="Ruby" width='40' height='40'/>&nbsp;
 <img src='https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg' title="Rails" alt="Rails" width='40' height='40'/>&nbsp;
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' title="Python" alt="Python" width='40' height='40'/>&nbsp;
-<img src='https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg' title="Django" alt="Django" width='40' height='40'/>&nbsp;
+<img src='https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg' title="Django" alt="Django" width='40' height='40'/>&nbsp;
 <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' title="Javascript" alt="Javascript" width='40' height='40'/>&nbsp;  
 <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' title="HTML5" alt="HTML5" width='40' height='40'/>&nbsp;
 <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' title="CSS3" alt="CSS3" width='40' height='40'/>&nbsp;
@@ -105,6 +113,11 @@ I am a Full Stack Developer :computer::bulb: from Karachi, Pakistan :pakistan:.
 
 ---
 
+:mailbox: How to reach me: [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" />](mailto:akeedahmedfarees@gmail.com)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />](https://www.linkedin.com/in/akeedahmedfarees/)
+
+---
+
 ### :fire: My Stats :
 
 <details>
@@ -124,6 +137,8 @@ I am a Full Stack Developer :computer::bulb: from Karachi, Pakistan :pakistan:.
     </i>
   </p>
 </details>
+
+---
 
 ### :headphones: What I'm listening to :
 <div align="center">
