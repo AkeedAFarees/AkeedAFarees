@@ -6,7 +6,7 @@
 
 ### 👋 Hey, I’m Akeed   
 
-I’m a **Full Stack Developer** :computer: from Karachi, Pakistan 🇵🇰 with **8+ years of experience** building scalable applications across **FinTech, HRTech, and Social Platforms**.  
+I’m a **Full Stack Developer** from Karachi, Pakistan with **8+ years of experience** building scalable applications across **FinTech, HRTech, and Social Media** industries.  
 
 My core stack: **Ruby on Rails, ReactJS, PostgreSQL, MongoDB, Redis, Sidekiq, and AWS** — with strong expertise in designing secure, scalable, and high-performance systems.  
 
